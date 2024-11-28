@@ -24,9 +24,6 @@ If you’re one of these people, read this guide—there’s a 100% chance you�
 5. Copy all files and folders from the `OLD` folder to the `Farming Simulator 25` folder.  
 6. To launch the game without updating it, open Steam, click `Steam` in the top corner, and select `Offline Mode`. After doing this, start the game using the FS25 `shortcut` on your desktop, and it will launch without updating. If you want to play multiplayer, switch to Offline Mode, launch the game, then alt-tab and switch back to Online Mode. Of course, you will only be able to play with people who have the same version. (You can also search online for how to launch Steam games without updating them.)  
 
----  
-
-Let me know if you have any problems Discord N1c3#4230
 
 **P.S.:**
 You could try following all the steps in the second fix without using `Downgrader.bat.` It might work, but other things could break. The D3D12 update primarily affects shader files and the .exe file. If you just upload the old files, the new ones won’t be deleted, and you might retain some of the newer content.
@@ -35,11 +32,19 @@ The downsides(by using second fix):
 
 The downgrader will simply delete the updated files and subfolders. For peace of mind, you can open it with Notepad to check for any harmful commands.  
 - `del` means file deletion.  
-- `dr` means folder deletion.  
+- `dr` means folder deletion.
+
+---  
+Let me know if you have any problems Discord N1c3#4230
+---  
+
+
 
 ### Here’s a video tutorial(click on the image):  
 
 [![Video](otherFiles/Downgrader_icon.png)](https://youtu.be/ELBEnPINkvo) 
+
+
 
 ---  
 
