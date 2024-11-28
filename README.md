@@ -30,7 +30,7 @@ The downgrader will simply delete the updated files and subfolders. For peace of
 
 ### Here’s a video tutorial:  
 
-[![Watch the video](otherFiles/Downgrader_icon.png)](https://youtu.be/ELBEnPINkvo))  
+(https://youtu.be/ELBEnPINkvo)  
 
 ---  
 
