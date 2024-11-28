@@ -28,7 +28,7 @@ The downgrader will simply delete the updated files and subfolders. For peace of
 - `del` means file deletion.  
 - `dr` means folder deletion.  
 
-### Here’s a video tutorial:  
+### Here’s a video tutorial(click on the image):  
 
 [![Video](otherFiles/Downgrader_icon.png)](https://youtu.be/ELBEnPINkvo) 
 
