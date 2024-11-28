@@ -26,7 +26,7 @@ If you’re one of these people, read this guide—there’s a 100% chance you�
 
 
 **P.S.:**
-You could try following all the steps in the second fix without using `Downgrader.bat.` It might work, but other things could break. The D3D12 update primarily affects shader files and the .exe file. If you just upload the old files, the new ones won’t be deleted, and you might retain some of the newer content. Alternatively, you could try using only the `.exe` files from the `OLD` folder and the `libxess.dll.` This way, you might be updated but still running on the older D3D version. If it doesn’t work, try copying `dataS.gar` and `dataS2.gar` as well, since they might be related to the D3D12 update.
+You could try following all the steps in the second fix without using `Downgrader.bat.` It might work, but other things could break. The D3D12 update primarily affects shader files and the .exe file. If you just copy the old files, the new ones won’t be deleted, and you might retain some of the newer content. Alternatively, you could try using only the `.exe` files from the `OLD` folder and the `libxess.dll.` This way, you might be updated but still running on the older D3D version. If it doesn’t work, try copying `dataS.gar` and `dataS2.gar` as well, since they might be related to the D3D12 update.
 The downsides(by using second fix):
 - Game bugs will not be fixed since you won’t be able to update it without breaking it again. (maybe in the future they make an version for older gpus)
 
