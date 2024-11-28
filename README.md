@@ -30,7 +30,7 @@ The downgrader will simply delete the updated files and subfolders. For peace of
 
 ### Here’s a video tutorial:  
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)  
+[![Watch the video](otherFiles/Downgrader_icon.png)](otherFiles/Downgrader.mp4)  
 
 ---  
 
