@@ -17,11 +17,12 @@ If you’re one of these people, read this guide—there’s a 100% chance you�
 - The biggest issue: if you alt+tab, the game will instantly shut down.  
 
 ### Second Fix (Downgrade from 1.3 to Legacy Version — Use if it worked before the update):  
-1. Download the downgrader from Google Drive and extract it. Here’s the link: [Downgrader Download](https://drive.google.com/file/d/1vwMeTYPD6aNXXUKclKGzkemwMl5ot92D/view?usp=drive_link).  
-2. Copy `Downgrader.bat` to `Steam\steamapps\common`. Make sure it’s in the `common` folder, not the `FarmingSimulator25` folder.  
-3. Run `Downgrader.bat` as administrator.  
-4. Copy all files and folders from the `OLD` folder to the `Farming Simulator 25` folder.  
-5. Run `Steam\steamapps\common\Farming Simulator 25\x64\FarmingSimulator2025Game.exe` to launch the game.  
+1. Make sure your auto-update is turned off in Steam. The files on Google Drive are 4GB because they contain the old version of the game files.
+2. Download the downgrader from Google Drive and extract it. Here’s the link: [Downgrader Download](https://drive.google.com/file/d/1vwMeTYPD6aNXXUKclKGzkemwMl5ot92D/view?usp=drive_link).  
+3. Copy `Downgrader.bat` to `Steam\steamapps\common`. Make sure it’s in the `common` folder, not the `FarmingSimulator25` folder.  
+4. Run `Downgrader.bat` as administrator.  
+5. Copy all files and folders from the `OLD` folder to the `Farming Simulator 25` folder.  
+6. Run `Steam\steamapps\common\Farming Simulator 25\x64\FarmingSimulator2025Game.exe` to launch the game.  
 
 The downgrader will simply delete the updated files and subfolders. For peace of mind, you can open it with Notepad to check for any harmful commands.  
 - `del` means file deletion.  
