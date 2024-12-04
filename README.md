@@ -20,7 +20,7 @@ If you’re one of these people, read this guide—there’s a 100% chance you�
 1.Click properties on fs25 in steam
 2.Select `Betas` tab and select 1.21 version 
 
-Here you go.
+It will downgrade to the first version, and it should work if it worked for you before the update.
 
 ### Use the third fix only when the second fix is disabled.(Downgrade from 1.3 to Legacy Version — Use if it worked before the update):  
 1. Make sure your auto-update is turned off in Steam. The files on Google Drive are 4GB because they contain the old version of the game files.
