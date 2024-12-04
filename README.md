@@ -21,7 +21,14 @@ If you’re one of these people, read this guide—there’s a 100% chance you�
 2.Select `Betas` tab and select 1.21 version 
 
 It will downgrade to the first version, and it should work if it worked for you before the update.
-
+-
+-
+-
+-
+-
+-
+-
+-
 ### Use the third fix only when the second fix is disabled.(Downgrade from 1.3 to Legacy Version — Use if it worked before the update):  
 1. Make sure your auto-update is turned off in Steam. The files on Google Drive are 4GB because they contain the old version of the game files.
 2. Download the downgrader from Google Drive and extract it. Here’s the link: [Downgrader Download](https://drive.google.com/file/d/1vwMeTYPD6aNXXUKclKGzkemwMl5ot92D/view?usp=drive_link).  
