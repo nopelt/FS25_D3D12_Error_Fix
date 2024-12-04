@@ -14,9 +14,15 @@ If you’re one of these people, read this guide—there’s a 100% chance you�
 
 **P.S.:** This fix will make the game work (for some players), but there are downsides:  
 - The game might look worse.  
-- The biggest issue: if you alt+tab, the game will instantly shut down.  
+- The biggest issue: if you alt+tab, the game will instantly shut down.
 
-### Second Fix (Downgrade from 1.3 to Legacy Version — Use if it worked before the update):  
+### Second Fix:
+1.Click properties on fs25 in steam
+2.Select `Betas` tab and select 1.21 version 
+
+Here you go.
+
+### Use the third fix only when the second fix is disabled.(Downgrade from 1.3 to Legacy Version — Use if it worked before the update):  
 1. Make sure your auto-update is turned off in Steam. The files on Google Drive are 4GB because they contain the old version of the game files.
 2. Download the downgrader from Google Drive and extract it. Here’s the link: [Downgrader Download](https://drive.google.com/file/d/1vwMeTYPD6aNXXUKclKGzkemwMl5ot92D/view?usp=drive_link).  
 3. Copy `Downgrader.bat` to `Steam\steamapps\common`. Make sure it’s in the `common` folder, not the `FarmingSimulator25` folder. (If your game is not on Steam, just make sure that `Downgrader.bat` is placed outside the FS25 folder, not inside it.)  
